@@ -1,7 +1,7 @@
 # Project 0
 
 First exercise from the program CS50's Mobile App Development with React Native with the aim
-of practicing JavaScript in th for of a TODO list which will have the options to create new TODOs
+of practicing JavaScript with the development of a TODO list which will have the options to create new TODOs
 to the list and track both the number of total records as well as the number of unchecked ones.
 
 ## Instructions as given by CS50's Mobile App Development with React Native
